@@ -1,31 +1,24 @@
-# Stanford CS109: Probability for Computer Scientists
+# 简介
 
-**Problem Set #1 – Fall 2021**
+这是 Stanford CS109 - Probability for Computer Scientists (Fall 2021) 课程的全部作业。
 
-This repository contains my personal solutions to **CS109 – Probability for Computer Scientists** (Fall 2021). **Please note: I am not a Stanford University student, and these solutions are provided solely as a learning reference without any guarantee of accuracy.**
+# 课程简介
 
-## 📘 About This Repository
+课程包含了基础到中级的概率论知识，从 "Definition of Probability" 开始，逐步覆盖 Bayes‘ Therom、Random Variables、Expectation、Variance 等重要基础概念，慢慢扩展至 Bernoulli Distribution、Poisson Distribution、Normal Distribution 等重要概率模型，后续延伸至 Multinomial、Inference、Bayesian Networks 等高级概率模型，最后引入机器学习等基础算法如 Naive Bayes、Logistic Regression 等。
 
-CS109 is a publicly available Stanford course on probability theory, and all lecture videos and materials can be freely accessed online. However, the official course does not provide problem sets or their solutions.
+课程共有6次作业，每一次的作业都包含有使用概率论解决实际问题的题目，并附有编程题以将理论与编程相结合。
 
-Since the problem sets from the Fall 2021 term were publicly posted on the course website, I have compiled and shared them here along with my own solutions. The purpose is to help other learners who are studying probability theory independently.
+# 课程展示
 
-**Please do not use any content from this repository as submissions for your own coursework or for any form of academic dishonesty.**
 
-I sincerely hope that others will contribute by reviewing, correcting, or improving these solutions. If you notice any mistakes or have suggestions for clearer explanations, feel free to open an issue or submit a pull request.
+| Homepage                              | Lecture                           | PST                              |
+| ------------------------------------- | --------------------------------- | -------------------------------- |
+| ![Homepage](Screenshots/Homepage.png) | ![Start](Screenshots/Lecture.png) | ![Homepage](Screenshots/PST.png) |
 
-## ✨ Disclaimer
 
-- All solutions here are **personal study notes** and **do not represent official answers**.
-- Content is provided for educational and reference purposes only.
-- If you are currently enrolled in a similar course, **do not copy these solutions**.
 
-## 📜 License
 
-This repository is shared under the [MIT License](LICENSE). You are welcome to use or adapt the materials with proper attribution.
+# 课程信息
 
----
-
-**Author:**  
- Valerius Astoria
- valeriusastoria@gmail.com
+[课程主页](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/)
+[讲座视频](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=n3CEMiQo7p7sBxmS)
